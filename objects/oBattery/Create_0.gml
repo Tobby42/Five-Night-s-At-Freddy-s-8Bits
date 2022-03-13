@@ -1,0 +1,3 @@
+battery_lvl=100
+cooldown_battery=0
+maxcooldown_battery=600
