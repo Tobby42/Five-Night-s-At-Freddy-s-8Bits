@@ -3,7 +3,7 @@ var trigg = instance_nearest(x,y,oTrigg_mobs)
 
 if (cooldown_fox <= 0)
 {
-	cooldown_fox = random_range(200, 260)
+	cooldown_fox = random_range(2000, 2600)
 	state_fox -= 1
 }
 

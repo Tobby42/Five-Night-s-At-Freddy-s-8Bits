@@ -62,3 +62,5 @@ if (battery_lvl == 0)
 	oDoorL.batt_doorL = 0
 	oDoorR.batt_doorR = 0
 }
+
+//test changement
