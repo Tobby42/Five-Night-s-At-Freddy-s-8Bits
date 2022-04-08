@@ -44,6 +44,7 @@ if (cooldown_freddy <= 0)or go_freddy == 1
 			image_index = 0
 			image_xscale = 10
 			image_yscale = 10
+			image_angle = random_range(20, -20)
 			x = room_width/2
 			y = room_height/2
 			x += random_range(6, -6)

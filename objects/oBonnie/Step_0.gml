@@ -65,6 +65,7 @@ if (cooldown_bonnie <= 0)or go_bonnie == 1
 			image_index = 0
 			image_xscale = 10
 			image_yscale = 10
+			image_angle = random_range(20, -20)
 			x = room_width/2
 			y = room_height/2 + 70
 			x += random_range(6, -6)
@@ -84,11 +85,14 @@ if (cooldown_bonnie <= 0)or go_bonnie == 1
 		{
 			place_b = 0
 			var_place_b = current_second
-			cooldown_bonnie = random_range(100, 300)
 		}
 	}
 	place_b += 1
 	
+}
+if (place_b == 6) && (!oDoorL.openL)
+{
+	cooldown_bonnie -=4
 }
 
 //visible que sur les cams allumés

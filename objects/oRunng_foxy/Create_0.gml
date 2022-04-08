@@ -6,4 +6,4 @@ go_foxy = 0
 cd_go_foxy = 84
 ind_foxy = 0
 
-image_index = 1
+image_index = 4

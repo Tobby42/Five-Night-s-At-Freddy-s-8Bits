@@ -1,7 +1,5 @@
 draw_set_font(Font1)
 draw_set_halign(fa_center)
-//draw_text(40,40,global.hour)
-//draw_text(70,40,global.minut)
 draw_text(100, 40,string(global.hour) + ":" + string(global.minut))
 draw_text(100, 40, "0   0")
 draw_text(980,40,"NIGHT " + string(night))

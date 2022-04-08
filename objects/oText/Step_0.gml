@@ -17,8 +17,7 @@ if (cooldown_hour >= 3000) && (global.hour == 5)
 
 night = (random_range(10, 99))
 
-
-/*if (global.hour >= 6)
+if (global.hour >= 6)
 {
-	//win
+	win = 1
 }

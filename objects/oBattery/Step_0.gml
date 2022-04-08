@@ -1,9 +1,5 @@
 //changements d'image_index
 
-if (keyboard_check_pressed(ord("B")))
-{
-	battery_lvl-=2
-}
 if (battery_lvl<=100 and battery_lvl>75)
 {
 	image_index=4
