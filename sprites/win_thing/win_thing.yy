@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"win_thing","path":"sprites/win_thing/win_thing.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "win_thing",
     "tags": [],
     "resourceType": "GMSequence",

@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sBattery","path":"sprites/sBattery/sBattery.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sBattery",
     "tags": [],
     "resourceType": "GMSequence",

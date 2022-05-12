@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sBattery_usage","path":"sprites/sBattery_usage/sBattery_usage.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sBattery_usage",
     "tags": [],
     "resourceType": "GMSequence",

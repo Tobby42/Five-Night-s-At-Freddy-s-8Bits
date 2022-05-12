@@ -15,7 +15,13 @@ if (cooldown_hour >= 3000) && (global.hour == 5)
 	}
 }
 
-night = (random_range(10, 99))
+cooldown_night += 1
+if (cooldown_night == 5)
+{	
+	night = (random_range(10, 99))
+	cooldown_night = 0
+}
+
 
 if (global.hour >= 6)
 {

@@ -107,7 +107,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sMap","path":"sprites/sMap/sMap.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sMap",
     "tags": [],
     "resourceType": "GMSequence",

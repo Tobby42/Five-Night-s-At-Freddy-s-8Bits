@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sButt_play","path":"sprites/sButt_play/sButt_play.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sButt_play",
     "tags": [],
     "resourceType": "GMSequence",

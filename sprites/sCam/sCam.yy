@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sCam","path":"sprites/sCam/sCam.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sCam",
     "tags": [],
     "resourceType": "GMSequence",

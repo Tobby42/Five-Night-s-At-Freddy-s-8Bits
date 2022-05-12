@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sBonnie","path":"sprites/sBonnie/sBonnie.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sBonnie",
     "tags": [],
     "resourceType": "GMSequence",

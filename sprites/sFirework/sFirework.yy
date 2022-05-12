@@ -111,7 +111,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sFirework","path":"sprites/sFirework/sFirework.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sFirework",
     "tags": [],
     "resourceType": "GMSequence",

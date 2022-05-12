@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPos_bonnie","path":"sprites/sPos_bonnie/sPos_bonnie.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPos_bonnie",
     "tags": [],
     "resourceType": "GMSequence",

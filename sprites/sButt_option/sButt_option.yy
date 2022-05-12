@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sButt_option","path":"sprites/sButt_option/sButt_option.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sButt_option",
     "tags": [],
     "resourceType": "GMSequence",

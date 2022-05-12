@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sButt_exit","path":"sprites/sButt_exit/sButt_exit.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sButt_exit",
     "tags": [],
     "resourceType": "GMSequence",

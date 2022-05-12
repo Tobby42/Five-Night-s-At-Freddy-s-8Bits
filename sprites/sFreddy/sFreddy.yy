@@ -142,7 +142,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sFreddy","path":"sprites/sFreddy/sFreddy.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sFreddy",
     "tags": [],
     "resourceType": "GMSequence",

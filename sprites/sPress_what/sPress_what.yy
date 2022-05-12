@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPress_what","path":"sprites/sPress_what/sPress_what.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPress_what",
     "tags": [],
     "resourceType": "GMSequence",

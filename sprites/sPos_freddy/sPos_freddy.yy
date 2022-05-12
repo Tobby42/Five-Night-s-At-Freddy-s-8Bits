@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPos_freddy","path":"sprites/sPos_freddy/sPos_freddy.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPos_freddy",
     "tags": [],
     "resourceType": "GMSequence",

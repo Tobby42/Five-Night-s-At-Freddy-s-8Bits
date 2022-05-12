@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPos_chicca","path":"sprites/sPos_chicca/sPos_chicca.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPos_chicca",
     "tags": [],
     "resourceType": "GMSequence",

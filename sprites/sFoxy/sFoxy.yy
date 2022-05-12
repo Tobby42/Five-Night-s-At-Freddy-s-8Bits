@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sFoxy","path":"sprites/sFoxy/sFoxy.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sFoxy",
     "tags": [],
     "resourceType": "GMSequence",

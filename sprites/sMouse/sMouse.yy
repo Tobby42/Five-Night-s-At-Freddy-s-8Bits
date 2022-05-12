@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sMouse","path":"sprites/sMouse/sMouse.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sMouse",
     "tags": [],
     "resourceType": "GMSequence",

@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sDoor_R","path":"sprites/sDoor_R/sDoor_R.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sDoor_R",
     "tags": [],
     "resourceType": "GMSequence",

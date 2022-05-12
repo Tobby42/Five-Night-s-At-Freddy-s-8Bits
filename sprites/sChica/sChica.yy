@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sChica","path":"sprites/sChica/sChica.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sChica",
     "tags": [],
     "resourceType": "GMSequence",

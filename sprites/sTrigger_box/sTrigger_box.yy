@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sTrigger_box","path":"sprites/sTrigger_box/sTrigger_box.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sTrigger_box",
     "tags": [],
     "resourceType": "GMSequence",

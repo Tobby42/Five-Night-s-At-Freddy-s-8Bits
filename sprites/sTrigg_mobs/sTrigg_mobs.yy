@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sTrigg_mobs","path":"sprites/sTrigg_mobs/sTrigg_mobs.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sTrigg_mobs",
     "tags": [],
     "resourceType": "GMSequence",
