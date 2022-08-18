@@ -97,6 +97,7 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"oText","path":"objects/oText/oText.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":true,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_4E5F23A8","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oTextGo","path":"objects/oTextGo/oTextGo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":true,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":0.0,"resourceVersion":"1.0","name":"inst_43A1547D","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oTuto_mouse","path":"objects/oTuto_mouse/oTuto_mouse.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":true,"ignore":false,"inheritItemSettings":false,"x":556.0,"y":171.0,"resourceVersion":"1.0","name":"inst_103C9B64","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":600,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":true,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"text","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"oBonnie","path":"objects/oBonnie/oBonnie.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":true,"ignore":false,"inheritItemSettings":false,"x":524.0,"y":43.0,"resourceVersion":"1.0","name":"inst_5B488AFE","tags":[],"resourceType":"GMRInstance",},
@@ -182,6 +183,7 @@
     {"name":"inst_60292637","path":"rooms/rPizzaPlace/rPizzaPlace.yy",},
     {"name":"inst_97801C1","path":"rooms/rPizzaPlace/rPizzaPlace.yy",},
     {"name":"inst_31404603","path":"rooms/rPizzaPlace/rPizzaPlace.yy",},
+    {"name":"inst_103C9B64","path":"rooms/rPizzaPlace/rPizzaPlace.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
